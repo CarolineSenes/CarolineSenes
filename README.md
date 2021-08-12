@@ -1,8 +1,6 @@
-![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinesenes&theme=tokyonight&show_icons=true)
+![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinesenes&theme=vision-friendly-dark&show_icons=true)
 
 # Salut, je suis Caroline! 👋
-
-## 🚀 A propos
 📍 Je vis en Alsace.  
 📷 Je suis également photographe freelance.  
 🛠️ Je suis maintenant diplômée en développement web depuis 2021.  
