@@ -21,5 +21,5 @@
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS/Sass, Bootstrap, MySQL, Vue.js, Vuetify, Node/Express, Git,
+Javascript, HTML, CSS/Sass, Bootstrap, MySQL, MongoDB, Vue.js, Vuetify, Node/Express, Git,
 Accessibilité (WCAG), Sécurité (OWASP)
