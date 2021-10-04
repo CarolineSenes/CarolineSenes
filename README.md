@@ -5,13 +5,13 @@
 📷 Je suis également photographe freelance.  
 🛠️ Je suis maintenant diplômée en développement web depuis 2021.  
 💻 J'ai une grosse préférence pour le front, avec des connaissances en Vue.js. Mais je fais aussi du back sous Node.js/Express.js.  
-❓ Je suis aussi de près les technos/outils low/no-code/jamstack.  
+❓ Je garde également un oeil sur les technos/outils low/no-code/jamstack.  
   
-🌱 | Je suis en train de me perfectionner en Javascript, Vue.js et [WordPress](https://capitainewp.io/formations/developper-theme-wordpress/) 
+🌱 | Je suis en train de me perfectionner en Javascript et Vue.js.
   
-⏳ | J'ai pour objectifs d'apprendre : [php](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql), python, la gestion de projet 
+⏳ | J'ai pour objectifs de me spécialiser dans l'accessibilité web qui est un sujet qui m'intéresse beaucoup. 
    
-🔭 | Je cherche actuellement des missions freelances pour de l'intégration ou du développement front, mais reste ouverte à d'autres propositions pro.  
+🔭 | Je cherche actuellement des missions freelances pour de l'intégration ou du développement front, mais reste ouverte à d'autres propositions pro (notamment dans l'accessibilité web).  
 
 
 ## 🔗 Liens
