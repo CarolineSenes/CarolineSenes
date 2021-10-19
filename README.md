@@ -5,7 +5,7 @@
 📷 Je suis également photographe freelance.  
 🛠️ Je suis maintenant diplômée en développement web depuis 2021.  
 💻 J'ai une grosse préférence pour le front, avec des connaissances en Vue.js. Mais je fais aussi du back sous Node.js/Express.js.  
-❓ Je garde également un oeil sur les technos/outils low/no-code/jamstack.  
+❓ Je garde également un oeil sur les technos/outils jamstack/no-code.  
   
 🌱 | Je suis en train de me perfectionner en Javascript et Vue.js.
   
@@ -15,11 +15,11 @@
 
 
 ## 🔗 Liens
-[![portfolio](https://img.shields.io/badge/my_portfolio_...coming_next-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carolinealexandre.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinesenes/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/senes_caroline)
 
   
 ## 🛠 Skills
 Javascript, HTML, CSS/Sass, Bootstrap, MySQL, MongoDB, Vue.js, Vuetify, Node/Express, Git,
-Accessibilité (WCAG), Sécurité (OWASP)
+Accessibilité (WCAG/RGAA), Sécurité (OWASP)
