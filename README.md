@@ -5,7 +5,7 @@
 📷 Je suis également photographe à mon compte.  
 🛠️ Je suis maintenant diplômée en développement web depuis Juillet 2021.  
 💻 J'ai une grosse préférence pour le front-end, avec des connaissances en Vue.js et React. 
-❓ Je garde également un oeil sur les technos/outils jamstack/no-code.  
+👀 Je garde également un oeil sur les technos/outils jamstack/no-code.  
   
 🌱 | Je suis en train de me perfectionner en Javascript et React.
   
