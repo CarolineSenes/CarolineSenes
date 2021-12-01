@@ -2,16 +2,16 @@
 
 # Salut, je suis Caroline! 👋
 📍 Je vis en Alsace.  
-📷 Je suis également photographe freelance.  
-🛠️ Je suis maintenant diplômée en développement web depuis 2021.  
-💻 J'ai une grosse préférence pour le front, avec des connaissances en Vue.js. Mais je fais aussi du back sous Node.js/Express.js.  
+📷 Je suis également photographe à mon compte.  
+🛠️ Je suis maintenant diplômée en développement web depuis Juillet 2021.  
+💻 J'ai une grosse préférence pour le front-end, avec des connaissances en Vue.js et React. 
 ❓ Je garde également un oeil sur les technos/outils jamstack/no-code.  
   
-🌱 | Je suis en train de me perfectionner en Javascript et Vue.js.
+🌱 | Je suis en train de me perfectionner en Javascript et React.
   
 ⏳ | J'ai pour objectifs de me spécialiser dans l'accessibilité web qui est un sujet qui m'intéresse beaucoup. 
    
-🔭 | Je cherche actuellement des missions freelances pour de l'intégration ou du développement front, mais reste ouverte à d'autres propositions pro (notamment dans l'accessibilité web).  
+🔭 | Je cherche actuellement des missions freelances pour de l'intégration HTML/CSS ou du développement front-end, mais reste ouverte à d'autres propositions pro (notamment dans l'accessibilité web).  
 
 
 ## 🔗 Liens
@@ -21,5 +21,5 @@
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS/Sass, Bootstrap, MySQL, MongoDB, Vue.js, Vuetify, Node/Express, Git,
+HTML, CSS/Sass, Bootstrap, Javascript, React, Vue.js, Vuetify, MySQL, MongoDB, Node/Express, Git,
 Accessibilité (WCAG/RGAA), Sécurité (OWASP)
