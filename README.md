@@ -23,3 +23,7 @@
 ## 🛠 Skills
 HTML, CSS/Sass, Bootstrap, Javascript, React, Vue.js, Vuetify, MySQL, MongoDB, Node/Express, Git,
 Accessibilité (WCAG/RGAA), Sécurité (OWASP)
+
+
+## 🐱‍🏍 Badges
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/carolinesenes)
