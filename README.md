@@ -25,5 +25,5 @@ HTML, CSS/Sass, Bootstrap, Javascript, React, Vue.js, Vuetify, MySQL, MongoDB, N
 Accessibilité (WCAG/RGAA), Sécurité (OWASP)
 
 
-## 🐱‍🏍 Badges
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/carolinesenes)
+## 🏷️ Badges
+freeCodeCamp ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/carolinesenes)
