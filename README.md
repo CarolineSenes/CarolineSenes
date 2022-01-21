@@ -7,7 +7,7 @@
 💻 Appétence pour le front-end, avec des connaissances en Vue, NuxtJS.  
 👀 Intéret : a11y
   
-🌱 | Je continue de me perfectionner en Javascript, et dans les environnements de Vue et React.
+🌱 | Je continue de me perfectionner en Javascript, Vue, PHP et Wordpress
   
 🔭 | Je cherche actuellement des missions freelances pour de l'intégration web ou du développement front-end, mais reste ouverte à d'autres propositions pro (notamment dans l'accessibilité web).  
 
