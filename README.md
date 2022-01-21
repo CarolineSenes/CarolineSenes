@@ -19,7 +19,7 @@
 
   
 ## 🛠 Skills
-HTML, CSS/Sass, Bootstrap, Javascript, React, Vue.js, NuxtJS, Vuetify, MySQL, MongoDB, Node/Express, Git,
+HTML, CSS/Sass, Bootstrap, Javascript, Vue.js, NuxtJS, Vuetify, MySQL, MongoDB, Node/Express, PHP, WordPress, Git,
 Accessibilité (WCAG/RGAA), Sécurité (OWASP)
 
 
