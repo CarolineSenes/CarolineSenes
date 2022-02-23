@@ -26,7 +26,8 @@
   <a href="https://my-developer-portfolio-theta.vercel.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
 
-<div style="display:flex;align-items:center;justify-content:space-between">
-  <div><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes' alt='Top Langs'></div>
-  <div><img src='https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true' alt='Top Langs'></div>
+</br>
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes' alt='Top Langs'>
+  <img src='https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true' alt='Top Langs'>
 </div>
