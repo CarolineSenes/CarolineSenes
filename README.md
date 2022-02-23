@@ -11,10 +11,10 @@
   <img align="left" width="420" src="/banner720.gif" />
   <div align="right" >
     <h4 align="left">🔭 I’m currently working on coding my portfolio & blog with Svelte and GraphCMS. </h4>
-    <h4 align="left">🌱 I’m currently learning Svelte and others things about Jamstack. </h4>
+    <h4 align="left">🌱 I’m currently learning Svelte and others things about Jamstack.</h4>
     <h4 align="left">👯 I’m looking to collaborate on an open-source project (a11y, french translation, optimization, front-end dev).</h4>
+    <h4 align="left">💡 I share Web Dev stuffs on Twitter</h4>
     <h4 align="left">💰 I’m looking for my first job as a Frontend Developer.</h4>
-    <h4 align="left">💬 Ask me about my content or my projects. I am happy to help.</h4>
   </div>
 </div>
   
