@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Caroline
 #### I’m a Frontend Developer with a11y minded.
-![I’m a Frontend Developer with a11y minded.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I’m a Frontend Developer with a11y minded.](https://github.com/CarolineSenes/CarolineSenes/blob/master/banner.gif)
 
 I started learning to code in January '21. Before I had my photography business for 6 years and was a commercial in large companies for 12 years.
 
