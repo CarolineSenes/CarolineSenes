@@ -1,10 +1,15 @@
-### Hi there 👋, my name is Caroline
-#### I’m a Frontend Developer with a11y minded.
-![I’m a Frontend Developer with a11y minded.](https://github.com/CarolineSenes/CarolineSenes/blob/master/banner720.gif)
+<h1 align="center">Hi there 👋, my name is Caroline</h1>
+<p align="center"><b>I’m a Frontend Developer with a11y minded.</b></p>
+</br>
 
-I started learning to code in January '21. Before I had my photography business for 6 years and was a commercial in large companies for 12 years.
+<div align="center"><img src="/banner720.gif" alt="banner"></div>
+</br>
 
-Skills: SVELTE / VUE.JS / JS / HTML / CSS / SASS / GRAPHCMS
+<div align="center"><b>
+  <p>I started learning to code in January '21. Before I had my photography business for 6 years and was a commercial in large companies for 12 years.</p>
+  <p>Skills: SVELTE / VUE.JS / JS / HTML / CSS / SASS / GRAPHCMS</p></b>
+</div>
+</br>
 
 - 🔭 I’m currently working on coding my portfolio & blog with Svelte and GraphCMS. 
 - 🌱 I’m currently learning Svelte and others things about Jamstack. 
@@ -13,9 +18,15 @@ Skills: SVELTE / VUE.JS / JS / HTML / CSS / SASS / GRAPHCMS
 - 💬 Ask me about my content or my projects. I am happy to help. 
 - 📫 How to reach me: https://www.linkedin.com/in/carolinesenes 
 
+</br>
+<div align="center">
+  <a href="https://github.com/carolinesenes"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+  <a href="https://www.linkedin.com/in/carolinesenes/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+  <a href="https://twitter.com/senes_caroline"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+  <a href="https://my-developer-portfolio-theta.vercel.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carolinesenes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carolinesenes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/senes_caroline)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-developer-portfolio-theta.vercel.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true)  
+<div style="display:flex;align-items:center;justify-content:space-between">
+  <div><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes' alt='Top Langs'></div>
+  <div><img src='https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true' alt='Top Langs'></div>
+</div>
