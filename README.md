@@ -38,14 +38,15 @@
 <br/>
 <br/>
 
-  
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true&theme=onedark&hide=stars' alt='Top Langs" alt="GitHub stats" />
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes&layout=compact&theme=react" alt="Top languages" />
+<div>  
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true&theme=onedark&hide=stars' alt='Top Langs" alt="GitHub stats" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes&layout=compact&theme=react" alt="Top languages" />
+  </div>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 ## 📫 How to reach me: 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/carolinesenes">
     <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
   </a>
