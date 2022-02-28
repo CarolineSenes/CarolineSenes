@@ -12,8 +12,8 @@
   <div align="right" >
     <h4 align="left">🔭 I’m currently working on coding an e-commerce app.</h4>
     <h4 align="left">🌱 I’m currently learning Svelte/Sveltekit and Jamstack.</h4>
-    <h4 align="left">👯 I’m looking to collaborate on an open-source project (a11y, french translation, optimization, front-end dev).</h4>
-    <h4 align="left">💡 I share Web Dev stuffs on Twitter</h4>
+    <h4 align="left">👯 I’m looking to collaborate on an open-source project (a11y, french translation, optimization, front-end dev) or an hackathon event.</h4>
+    <h4 align="left">💡 I share Web Dev stuffs on Twitter.</h4>
     <h4 align="left">💰 I’m looking for my first job as a Frontend Developer.</h4>
   </div>
 </div>
