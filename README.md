@@ -36,6 +36,7 @@
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img alt="Svelte" title="Svelte" width="45px" src="https://img.icons8.com/doodle/50/000000/svetle.png" />
   <img alt="Vuejs" title="Vuejs" width="45px" src="https://img.icons8.com/windows/32/000000/vuejs.png" />
+  <img alt="Reactjs" title="Reactjs" width="45px" src="https://img.icons8.com/office/72/react.png" />
   <img alt="Git" title="Git" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />
   <img alt="Visual Studio Code" title="VS Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Nodejs" title="Nodejs" width="45px" src="https://img.icons8.com/color/54087/nodejs.png" />
