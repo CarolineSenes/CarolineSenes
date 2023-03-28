@@ -50,8 +50,8 @@
 
 
 <div>  
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=carolinesenes&show_icons=true&theme=onedark&hide=stars' alt='Top Langs" alt="GitHub stats" />
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes&layout=compact&theme=react" alt="Top languages" />
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=carolinesenes" alt="GitHub stats" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes&layout=compact" alt="Top languages" />
 </div>
 
 <br/>
