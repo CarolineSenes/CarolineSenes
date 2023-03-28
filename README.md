@@ -45,21 +45,7 @@
   <img alt="figma" title="Figma" width="45px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 </div>
   
-<br/>
-<br/>
 
-
-<div>  
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=carolinesenes" alt="GitHub stats" />
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesenes&layout=compact" alt="Top languages" />
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
