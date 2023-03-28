@@ -10,10 +10,10 @@
 <div>
   <img align="left" width="420" src="/banner720.gif" />
   <div align="right" >
-    <h4 align="left">🛠 I’m currently working on React / Redux / Typescript</h4>
-    <h4 align="left">🌱 I continue to learn React / Redux / Typescript.</h4>
+    <h4 align="left">🛠 I’m currently working on Angular</h4>
+    <h4 align="left">🌱 I continue to learn Angular / Openshift </h4>
     <h4 align="left">🔬 I'm curious about too many things...</h4>
-    <h4 align="left">💡 I share Web Dev stuffs on Twitter.</h4>
+    <h4 align="left">💡 I sometimes share Web Dev stuffs on Twitter.</h4>
     <h4 align="left">🤩 I’m in my first job as a Frontend Developer since April 2022.</h4>
   </div>
 </div>
