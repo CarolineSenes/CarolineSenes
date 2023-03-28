@@ -45,9 +45,6 @@
   <img alt="figma" title="Figma" width="45px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 </div>
   
-
-<br/>
-<br/>
 <br/>
 <br/>
 
