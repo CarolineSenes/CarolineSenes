@@ -11,10 +11,7 @@
   <img align="left" width="420" src="/banner720.gif" />
   <div align="right" >
     <h4 align="left">🛠 I’m currently working on Angular</h4>
-    <h4 align="left">🌱 I continue to learn Angular / Openshift </h4>
-    <h4 align="left">🔬 I'm curious about too many things...</h4>
-    <h4 align="left">💡 I sometimes share Web Dev stuffs on Twitter.</h4>
-    <h4 align="left">🤩 I’m in my first job as a Frontend Developer since April 2022.</h4>
+    <h4 align="left">🌱 I am continuing to improve my frontend skills </h4>
   </div>
 </div>
   
@@ -41,8 +38,6 @@
   <img alt="Git" title="Git" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />
   <img alt="Jira" title="Jira" width="45px" src="https://img.icons8.com/color/48/000000/jira.png" />
   <img alt="Visual Studio Code" title="VS Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="mongodb" title="MongoDB" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img alt="figma" title="Figma" width="45px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 </div>
   
 <br/>
