@@ -7,12 +7,12 @@
   
 </br>
 
-<div>
+
   <div align="center" >
-    <h4 align="left">🛠 I’m currently working on Angular</h4>
-    <h4 align="left">🌱 I am continuing to improve my frontend skills </h4>
+    <h4>🛠 I’m currently working on Angular</h4>
+    <h4>🌱 I am continuing to improve my frontend skills </h4>
   </div>
-</div>
+
   
 <br/>
 <br/>
